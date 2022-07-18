@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![picture](/assets/personal-picture.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Gustavo Adolfo Rodriguez, a passionate Software Engineer and Salsa music lover. I live in Cali, Colombia, and work for [Perficient](https://www.perficient.com), but this blog, its content, and opinions are my own.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I've worked as a Software Engineer for more than a decade and I'm currently deeply invested in all things Java Cloud-Native development.
