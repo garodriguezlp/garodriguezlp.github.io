@@ -48,10 +48,11 @@ documentation](https://docs.github.com/en/codespaces/developing-in-codespaces/us
 that deals with `ssh` keys, which I consider a bit cumbersome, it looks like you could tweak the `devcontainer` ssh installation
 via the installation script arguments, but I haven't tried that out yet.
 
-For those of you wanting to explore it:
+For those of you wanting to explore it, this could help:
 
-- Here's the `sshd` installation script docs: [link](https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/sshd.md#syntax)
-- Here's the script source code: [link](https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/sshd-debian.sh)
+- The `sshd` installation script docs: [link](https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/sshd.md#syntax)
+- The `sshd` installation script source code: [link](https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/sshd-debian.sh)
+- I guess this approach will require you to learn about codespaces secrets management, so here the docs: [link](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-encrypted-secrets-for-your-codespaces)
 
 BTW, `sshd` installation is part of what Microsoft calls `Dev container features`, which at the time of this writing is a feature in preview mode.
 
